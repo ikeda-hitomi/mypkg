@@ -11,7 +11,7 @@
 
 # ROSのインストール
 下記の資料に従って環境構築しました。
-- [参考動画(~32:10まで)](https://www.youtube.com/watch?v=AFSrcE3qFkU)
+- [参考動画](https://www.youtube.com/watch?v=AFSrcE3qFkU)
 - [インストーラ](https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu18.04_desktop.git)
 
 
@@ -56,5 +56,7 @@ $ rosrun turtlesim turtle_teleop_key
 このリポジトリは[BSD 3-Clause License](https://github.com/ikeda-hitomi/mypkg/blob/main/LICENSE)が付与されています。
 
 # 参考文献
-[ロボットシステム学第10回(ROS)](https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/)
-[turtleを動かす](https://brain.cc.kogakuin.ac.jp/~kanamaru/lecture/ROS/index3.html)
+- ロボットシステム学第10回(ROS)
+[動画](https://www.youtube.com/watch?v=PL85Pw_zQH0)
+[資料](https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/)
+- [turtlesim](https://brain.cc.kogakuin.ac.jp/~kanamaru/lecture/ROS/index3.html)
