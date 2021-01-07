@@ -47,6 +47,11 @@ $ rosrun turtlesim turtle_teleop_key
 上記と同様で壁に当たった場合、警告が表示される。
 キーボードの←↑→↓で操作
 
+# 動作動画
+以下より視聴できます。  
+- [速く走らせる](https://youtu.be/JKBOvewLHmA)
+- [遅く走らせる](https://youtu.be/tPKpvd6Urs4)
+
 # ライセンス
 このリポジトリは[BSD 3-Clause License](https://github.com/ikeda-hitomi/mypkg/blob/main/LICENSE)が付与されています。
 
