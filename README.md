@@ -49,14 +49,14 @@ $ rosrun turtlesim turtle_teleop_key
 
 # 動作動画
 以下より視聴できます。  
-- [速く走らせる](https://youtu.be/JKBOvewLHmA)
-- [遅く走らせる](https://youtu.be/tPKpvd6Urs4)
+- [速く走らせた場合](https://youtu.be/JKBOvewLHmA)
+- [遅く走らせた場合](https://youtu.be/tPKpvd6Urs4)
 
 # ライセンス
 このリポジトリは[BSD 3-Clause License](https://github.com/ikeda-hitomi/mypkg/blob/main/LICENSE)が付与されています。
 
 # 参考文献
 - ロボットシステム学第10回(ROS)
-[動画](https://www.youtube.com/watch?v=PL85Pw_zQH0)
-[資料](https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/)
+  - [動画](https://www.youtube.com/watch?v=PL85Pw_zQH0)
+  - [資料](https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/)
 - [turtlesim](https://brain.cc.kogakuin.ac.jp/~kanamaru/lecture/ROS/index3.html)
