@@ -17,10 +17,10 @@ def update_cmd_vel():
     boundary = 1.0
     if (pose.x < boundary or pose.x > 11.08-boundary or pose.y < boundary or pose.y > 11.08-boundary) and not nowRotating:
         cmd_vel.linear.x = 0.0
-        cmd_vel.angular.z = -4.0
+        cmd_vel.angular.z = 10
         nowRotating = True
     else:
-        cmd_vel.linear.x = 3.0
+        cmd_vel.linear.x = 5.0
         cmd_vel.angular.z = 0.0
         nowRotating = False
 def autonomous_controller():
